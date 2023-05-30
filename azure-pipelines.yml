@@ -7,5 +7,4 @@ variables:
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
 
-steps:
-displayName: 'Running stuff'
+
