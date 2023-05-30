@@ -7,4 +7,6 @@ variables:
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
 
-
+steps:
+  - script: echo Hello everybody!
+    displayName: 'Run a script'
